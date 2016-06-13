@@ -1,0 +1,30 @@
+input[name="nickname"]{
+    width: 25em;
+    border-radius: 2px;
+    padding: 5px 0 5px 0;
+    margin: 5px 0 5px 0;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#chatInput{
+    width:100%;
+    margin: 15px 0 15px 0;
+    padding: 10px 5px 10px 5px;
+}
+
+#textContainer{
+    width:100%;
+    min-height:350px;
+    max-height:350px;
+    border-color: #000000;
+    border: 2px;
+    border-style: solid;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+#textContainer div:nth-child(odd){
+    background: #eeeeee;
+}
+
