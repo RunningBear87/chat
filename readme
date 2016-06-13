@@ -1,0 +1,12 @@
+1. download node.js
+2. install node.js
+3. open command prompt/terminal
+4. navigate to directory where files are downloaded.
+5. run command "npm install" to install dependencies.
+6. run command "bower install" to install developer dependencies.
+7. run command "node server.js" to begin serving the chat room.
+8. open web browser
+9. navigate to "http://localhost:8080/"
+
+
+Thank you for checking out my app!
