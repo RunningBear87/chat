@@ -3,7 +3,7 @@
 3. open command prompt/terminal
 4. navigate to directory where files are downloaded.
 5. run command "npm install" to install dependencies.
-6. run command "bower install" to install developer dependencies.
+6. run command "bower install" to install front-end dependencies.
 7. select jQuery 3.0.0. We are only using bootstrap for its css right now. 
 8. run command "node server.js" to begin serving the chat room.
 9. open web browser
