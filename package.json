@@ -22,11 +22,9 @@
     "url": "https://github.com/RunningBear87/chat/issues"
   },
   "homepage": "https://github.com/RunningBear87/chat#readme",
-  "devDependencies": {
-    "express": "^4.13.4",
-    "socket.io": "^1.4.6"
-  },
   "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6",
     "bower": "^1.7.9"
   }
 }
