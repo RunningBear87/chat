@@ -2,26 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=.9, maximum-scale=.9, user-scalable=no">
     <title>My Chatroom</title>
     <link rel="stylesheet" type="text/css" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
 <div class="container text-center ">
+      <div id="nicknameContainer">
         <input type="text" name="nickname" placeholder="Please enter your name...">
         <div>
             <button name="clear" class="btn btn-danger btn-group-lg">Clear</button>
             <button name="submitNickname" class="btn btn-success btn-group-lg" disabled="disabled">Submit</button>
         </div>
+      </div>
 </div>
 </body>
 <script src="socket.io/socket.io.js"></script>
 <script src="/bower_components/jquery/dist/jquery.min.js"></script>
 <script src="/js/main.js"></script>
 </html>
-
-
-
-
-

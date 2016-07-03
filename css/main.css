@@ -28,3 +28,8 @@ input[name="nickname"]{
     background: #eeeeee;
 }
 
+@media (max-width: 768px){
+   #textContainer{
+     min-height:150px !important;
+  }
+}
