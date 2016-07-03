@@ -1,5 +1,5 @@
-1. download node.js
-2. install node.js
+1. git clone this repository
+2. download node.js and install node.js
 3. open command prompt/terminal
 4. navigate to directory where files are downloaded.
 5. run command "npm install" to install dependencies.
